@@ -1,7 +1,8 @@
-This current project is a website about recipes. 
+### [The Odin Project - mili @ odin-recipes](www.theodinproject.com)
 
-Until now I have learned how to create lists, links, add images, commit correctly.
+This current project is a plain web page about recipes, made based on the instructions found along the tutorial. Following the steps as close as I could was my target. Also, using my past experience, I've tried to beautify the project, but also keep it clean and in the bounds of the tutorial. 
 
-I am looking forward to build sites and soon to style them accordingly.
+Until now I have learned about creating lists, adding links and images and doing correctly a commit on Github (still working on this one, haha). 
 
-www.theodinproject.com
+### Note made on 17.01.2025
+I am looking forward to improve myself, get better and better as days are passing and develop my logical thinking through the course. Building an entire React website is my goal and I will not stop until I reach it.
