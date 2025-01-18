@@ -10,5 +10,7 @@ Until now I have learned about
  - doing correctly a commit on Github (*still working on this one, haha*)
 
 
-### Note made on 17.01.2025
+
+
+### Self-note made on 17.01.2025
 I am looking forward to improve myself, get better and better as days are passing and develop my logical thinking through the course. Building an entire React website is my goal and I will not stop until I reach it.
